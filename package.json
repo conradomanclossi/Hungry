@@ -1,0 +1,23 @@
+{
+  "name": "hungry",
+  "version": "1.0.0",
+  "description": "The new POS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conradomanclossi/Hungry.git"
+  },
+  "author": "Conrado Manclossi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conradomanclossi/Hungry/issues"
+  },
+  "homepage": "https://github.com/conradomanclossi/Hungry#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
